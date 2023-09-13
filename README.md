@@ -1,7 +1,4 @@
-# cop4655-mobile-apps-unit2-kaewae0
-cop4655-mobile-apps-unit2-kaewae0 created by GitHub Classroom
-# cop4655-mobile-apps-unit1-kaewae0
-cop4655-mobile-apps-unit1-kaewae0 created by GitHub Classroom
+
 # Project 2 - *Flixster Part 1*
 
 Submitted by: **Kaela Kent**
